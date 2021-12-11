@@ -1,5 +1,5 @@
 # Monster-Hunter-Portable-3rd-HD-pack
-an "HD" pack for MHP3rd NPLJB400, it will contain almost all the game with better resolution either with upscale textures or directly taken from 3U 
+an "HD" pack for MHP3rd NPLJB400, it will contain most ll the game with better resolution either with upscale textures or directly taken from 3U 
 (isn´t finished yet, i will upload things what i have done)
 Credits: AFOOT, Darix, !-0 Kuña’i Ñakurutû (Tano), Effy and Stormie
 ![Captura de pantalla (187)](https://user-images.githubusercontent.com/71895210/145267711-f88d24e8-3bea-4806-b02b-e8f6fc8c5ca7.png)
